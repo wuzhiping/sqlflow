@@ -1,4 +1,3 @@
-# docker-compose.yml
   sqlflow:
     image: sqlflow/sqlflow:latest
     restart: always
